@@ -1,0 +1,37 @@
+            #div-after {
+                background-color: violet;
+                color: aliceblue;
+            }
+            #div-before {
+              background-color: violet;
+              color: aliceblue;
+              margin-top: 10px;
+          }
+
+            #div-1 {
+                background-color: black;
+                color: aliceblue;
+                height: 70px;
+            }
+
+            #div-1-b {
+                background-color: green;
+                color: aliceblue;
+                height: 40px;
+                display: block;
+            }
+
+            #div-1-a {
+                background-color: red;
+                color: aliceblue;
+                width: 100px;
+                height: 100px;
+                right: 0;
+                top: 0;
+                position: absolute;
+            }
+
+            #div-1-b,
+            #p1 {
+                margin-left: 10px;
+            }

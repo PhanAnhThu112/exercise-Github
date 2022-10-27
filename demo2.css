@@ -1,0 +1,38 @@
+
+      h1 {
+        font-size: 50px;
+        color: black;
+        text-align: center;
+        font: arial;
+      }
+
+      .td {
+        font-size: 25px;
+        color: red;
+        font: arial;
+      }
+
+      .td2 {
+        background-color: yellow;
+        font-size: 16px;
+        color: green;
+      }
+
+      .td3 {
+        color: white;
+        background-color: blueviolet;
+        font-size: 15px;
+      }
+
+      table {
+        border: 5px double;
+      }
+
+      th,
+      td {
+        border: 2px ridge pink;
+      }
+      mark {
+        background: violet;
+        color: white;
+      }
